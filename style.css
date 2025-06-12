@@ -185,6 +185,7 @@ section p {
 }
 
 .linha-do-tempo li::before {
+  list-style-type: none;
   position: absolute;
   left: -25px;
 }

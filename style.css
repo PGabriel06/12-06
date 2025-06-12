@@ -178,14 +178,14 @@ section p {
 }
 
 .linha-do-tempo li {
+  text-align: center;
+  list-style-type: none;
   margin-bottom: 12px;
   padding-left: 10px;
-
   position: relative;
 }
 
 .linha-do-tempo li::before {
-  list-style-type: none;
   position: absolute;
   left: -25px;
 }

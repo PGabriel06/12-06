@@ -185,7 +185,6 @@ section p {
 }
 
 .linha-do-tempo li::before {
-  content: "💙-";
   position: absolute;
   left: -25px;
 }
